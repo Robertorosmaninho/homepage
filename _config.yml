@@ -19,9 +19,9 @@ description: Personal blog and preject resumes
 avatar: profile.jpeg
 email: robertogrosmaninho@gmail.com
 github: robertorosmaninho # username
-twitter: rrosmaninho1
+#twitter: rrosmaninho1
 linkedin: robertorosmaninho
-stackoverflow: users/10764683/roberto-rosmaninho  #e.g: users/2735833/proton1h1
+#stackoverflow: users/10764683/roberto-rosmaninho  #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
 #google_analytics: UA-69391421-1
