@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: https://robertorosmaninho.github.io
-baseurl: /homepage/
+baseurl: ""   # root user-site. Requires the repo to be named robertorosmaninho.github.io (see PR notes)
 title: Roberto Rosmaninho
 author: Roberto Rosmaninho
 description: "Roberto Rosmaninho — Compiler Engineer & Technical Team Lead. Compilers, formal verification, and zero-knowledge."
